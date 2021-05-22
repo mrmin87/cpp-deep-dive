@@ -2,7 +2,7 @@
 
 - This a personal notebook of program solutions and practices of Sir Abdul Bari's Deep Dive in C++ Course on [Udemy](https://www.udemy.com/course/cpp-deep-dive/)
 - Theese codes are not well documented.
-- File structure was forked from **[mrmin87/cpp-deep-dive/>](https://github.com/AnmolTomer/cpp_deep_dive)
+- File structure was forked from [AnmolTomer/cpp_deep_dive](https://github.com/AnmolTomer/cpp_deep_dive)
 
 
 ## Contents :
